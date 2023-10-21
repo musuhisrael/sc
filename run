@@ -334,6 +334,8 @@ function base_package() {
 }
 clear
 # Fungsi input domain
+clear
+sleep 2
 function pasang_domain() {
 echo -e ""
 echo -e "    ┌───────────────────────────────────────────────┐"
